@@ -1,5 +1,5 @@
 import { Checkbox, FormControlLabel, Grid } from "@material-ui/core";
-import { decodeId, formatMessage, NumberInput, SelectInput, TextInput } from "@openimis/fe-core";
+import { decodeId, formatMessage, NumberInput, SelectInput, TextInput } from "@stssocialst-stp/fe-core";
 import { Parser } from "hot-formula-parser";
 import React, { Component } from "react";
 import { connect } from "react-redux";

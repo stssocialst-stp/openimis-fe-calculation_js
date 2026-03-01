@@ -1,6 +1,6 @@
 import {
     graphql, formatQuery
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 import { CONTEXT_PRODUCT, CONTEXT_BENEFIT_PLAN } from "./constants";
 
 const LINKEDCLASSES_PROJECTION = () => ["linkedClasses"];

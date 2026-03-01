@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { SelectInput } from "@openimis/fe-core";
+import { SelectInput } from "@stssocialst-stp/fe-core";
 import { fetchCalculationRules } from "../actions"
 import { connect } from "react-redux";
 import { bindActionCreators } from "redux";

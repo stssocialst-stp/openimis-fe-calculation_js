@@ -1,6 +1,6 @@
 import {
     formatServerError, formatGraphQLError
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 
 function reducer(
     state = {
